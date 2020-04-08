@@ -4,7 +4,10 @@ Hello! Thank you for viewing my portfolio. In this repository you will find the 
 Linear Regression: Predicting Peaks in Bike Rentals 
 
 Skills:
--Cleaning data
+
+-Cleaning data 
+
+-Dealing with outliers
 
 -Exploratory data analysis
 
