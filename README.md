@@ -14,3 +14,15 @@ Skills:
 -Regression analysis 
 
 -Business impact analysis
+
+
+
+Neural Network Image Classification: predicts whether an image is a hand sign of rock, paper, or scissors 
+
+Skills:
+
+-Image processing 
+
+-Building Neural Network
+
+-Building Convulutional Neural Network
